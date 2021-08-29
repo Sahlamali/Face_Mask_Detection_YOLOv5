@@ -1,5 +1,5 @@
 train: ../Face_Mask_Detection_YOLOv5/dataset/train.txt
-val: ../Face_Mask_Detection_YOLOv5/dataset/validate.txt
+val: ../Face_Mask_Detection_YOLOv5/dataset/valid.txt
 test: ../Face_Mask_Detection_YOLOv5/dataset/test.txt
 
 # number of classes
